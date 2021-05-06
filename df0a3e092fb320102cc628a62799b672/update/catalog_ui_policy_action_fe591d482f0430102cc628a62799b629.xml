@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Loaner Request">1c0155402f0430102cc628a62799b69d</catalog_item>
+        <catalog_variable>IO:340195802f0430102cc628a62799b61f</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 06:02:40</sys_created_on>
+        <sys_id>fe591d482f0430102cc628a62799b629</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_fe591d482f0430102cc628a62799b629</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 06:02:40</sys_updated_on>
+        <table/>
+        <ui_policy display_value="[Depot]の値が[Other]の場合のみ[Other]フィールドを表示">741919482f0430102cc628a62799b675</ui_policy>
+        <variable>other</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

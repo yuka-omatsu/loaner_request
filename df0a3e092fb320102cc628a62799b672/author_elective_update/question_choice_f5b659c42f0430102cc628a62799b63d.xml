@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>0</order>
+        <published_ref display_value="New York">ec0195802f0430102cc628a62799b610</published_ref>
+        <question display_value="どこでこのアイテムを受け取りますか">adb659c42f0430102cc628a62799b618</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:50:47</sys_created_on>
+        <sys_id>f5b659c42f0430102cc628a62799b63d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New York</sys_name>
+        <sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope>
+        <sys_update_name>question_choice_f5b659c42f0430102cc628a62799b63d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:50:47</sys_updated_on>
+        <text>New York</text>
+        <value>ny</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=f5b659c42f0430102cc628a62799b63d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</application>
+        <file_path/>
+        <instance_id>4d73bd63dbec77000b9d21c40596191a</instance_id>
+        <instance_name>dev79434</instance_name>
+        <name>question_choice_f5b659c42f0430102cc628a62799b63d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>0</order><published_ref display_value="New York">ec0195802f0430102cc628a62799b610</published_ref><question display_value="どこでこのアイテムを受け取りますか">adb659c42f0430102cc628a62799b618</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-06 05:50:47</sys_created_on><sys_id>f5b659c42f0430102cc628a62799b63d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New York</sys_name><sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package><sys_policy/><sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope><sys_update_name>question_choice_f5b659c42f0430102cc628a62799b63d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-06 05:50:47</sys_updated_on><text>New York</text><value>ny</value></question_choice><fx_price action="delete_multiple" query="id=f5b659c42f0430102cc628a62799b63d"/></record_update>]]></payload>
+        <payload_hash>-531359364</payload_hash>
+        <record_name>New York</record_name>
+        <reverted_from/>
+        <source>aab22b552f7320102cc628a62799b66a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:50:47</sys_created_on>
+        <sys_id>f9b659c42f0430102cc628a62799b63f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179403a83f30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:50:47</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>71b659c43c04301049da7bbadaec0b3f</update_guid>
+        <update_guid_history>71b659c43c04301049da7bbadaec0b3f:-531359364</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="New York">6a9755082f0430102cc628a62799b67c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:54:39</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>16f18d1e0b824944879ff9e550f94e21</sys_id>
+        <sys_metadata>f5b659c42f0430102cc628a62799b63d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New York</sys_name>
+        <sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope>
+        <sys_scope_delete display_value="">258c3f09563f4c5db8aae39692a5b0c9</sys_scope_delete>
+        <sys_update_name>question_choice_f5b659c42f0430102cc628a62799b63d</sys_update_name>
+        <sys_update_version display_value="question_choice_f5b659c42f0430102cc628a62799b63d">f9b659c42f0430102cc628a62799b63f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:54:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

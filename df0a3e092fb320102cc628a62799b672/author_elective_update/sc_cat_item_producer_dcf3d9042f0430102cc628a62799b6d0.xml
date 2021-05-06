@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="DELETE">
+        <access_type>restricted</access_type>
+        <active>false</active>
+        <allow_edit>false</allow_edit>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Loaner Request</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=dcf3d9042f0430102cc628a62799b6d0&amp;sysparm_preview=true", "summary");</preview>
+        <published_ref display_value="Loaner Request">1c0155402f0430102cc628a62799b69d</published_ref>
+        <recurring_frequency/>
+        <redirect_url>generated_record</redirect_url>
+        <request_method/>
+        <roles/>
+        <save_options/>
+        <save_script/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <script/>
+        <short_description>新規貸与リクエストの送信</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>draft</state>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:38:40</sys_created_on>
+        <sys_id>dcf3d9042f0430102cc628a62799b6d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope>
+        <sys_update_name>sc_cat_item_producer_dcf3d9042f0430102cc628a62799b6d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:38:40</sys_updated_on>
+        <table_name>x_577775_loaner_re_loaner_request</table_name>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="DELETE" query="documentkey=dcf3d9042f0430102cc628a62799b6d0"/>
+    <fx_price action="DELETE" query="id=dcf3d9042f0430102cc628a62799b6d0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</application>
+        <file_path/>
+        <instance_id>4d73bd63dbec77000b9d21c40596191a</instance_id>
+        <instance_name>dev79434</instance_name>
+        <name>sc_cat_item_producer_dcf3d9042f0430102cc628a62799b6d0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer"><sc_cat_item_producer action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>false</active><allow_edit>false</allow_edit><availability>on_desktop</availability><billable>false</billable><can_cancel>false</can_cancel><category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category><checked_out>false</checked_out><cost>0</cost><custom_cart/><delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow/><group/><hide_sp>false</hide_sp><icon/><ignore_price>true</ignore_price><image/><location/><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>Loaner Request</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>false</no_cart_v2><no_delivery_time_v2>false</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>false</no_quantity_v2><no_search>false</no_search><no_wishlist_v2>false</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><picture/><post_insert_script/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=dcf3d9042f0430102cc628a62799b6d0&amp;sysparm_preview=true", "summary");</preview><published_ref display_value="Loaner Request">1c0155402f0430102cc628a62799b69d</published_ref><recurring_frequency/><redirect_url>generated_record</redirect_url><request_method/><roles/><save_options/><save_script/><sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs><sc_ic_item_staging/><sc_ic_version/><sc_template/><script/><short_description>新規貸与リクエストの送信</short_description><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state>draft</state><sys_class_name>sc_cat_item_producer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-06 05:38:40</sys_created_on><sys_id>dcf3d9042f0430102cc628a62799b6d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Request</sys_name><sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package><sys_policy/><sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope><sys_update_name>sc_cat_item_producer_dcf3d9042f0430102cc628a62799b6d0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-06 05:38:40</sys_updated_on><table_name>x_577775_loaner_re_loaner_request</table_name><template/><template_manager_roles/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><view/><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item_producer><sys_translated_text action="delete_multiple" query="documentkey=dcf3d9042f0430102cc628a62799b6d0"/><fx_price action="delete_multiple" query="id=dcf3d9042f0430102cc628a62799b6d0"/></record_update>]]></payload>
+        <payload_hash>1199731433</payload_hash>
+        <record_name>Loaner Request</record_name>
+        <reverted_from/>
+        <source>aab22b552f7320102cc628a62799b66a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:38:40</sys_created_on>
+        <sys_id>1cf3d9042f0430102cc628a62799b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179402f6c500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:38:40</sys_updated_on>
+        <type>Record Producer</type>
+        <update_guid>90f3d904cf043010c0cfe90cf97556d4</update_guid>
+        <update_guid_history>90f3d904cf043010c0cfe90cf97556d4:1199731433</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Request">a23455442f0430102cc628a62799b62e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:39:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_producer">sc_cat_item_producer</sys_db_object>
+        <sys_id>7f02b07888424620a2e04503b1d50690</sys_id>
+        <sys_metadata>dcf3d9042f0430102cc628a62799b6d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package>
+        <sys_parent display_value="Loaner Request">53a4d4692ff320102cc628a62799b684</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope>
+        <sys_scope_delete display_value="">258c3f09563f4c5db8aae39692a5b0c9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_producer_dcf3d9042f0430102cc628a62799b6d0</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_producer_dcf3d9042f0430102cc628a62799b6d0">1cf3d9042f0430102cc628a62799b6d4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:39:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

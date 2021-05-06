@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>0</order>
+        <published_ref display_value="Laptop">640155802f0430102cc628a62799b6d0</published_ref>
+        <question display_value="どのアイテムを予約しますか">09c45d442f0430102cc628a62799b613</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:42:17</sys_created_on>
+        <sys_id>91c45d442f0430102cc628a62799b621</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptop</sys_name>
+        <sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope>
+        <sys_update_name>question_choice_91c45d442f0430102cc628a62799b621</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:42:17</sys_updated_on>
+        <text>Laptop</text>
+        <value>cmdb_ci_computer</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=91c45d442f0430102cc628a62799b621"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</application>
+        <file_path/>
+        <instance_id>4d73bd63dbec77000b9d21c40596191a</instance_id>
+        <instance_name>dev79434</instance_name>
+        <name>question_choice_91c45d442f0430102cc628a62799b621</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>0</order><published_ref display_value="Laptop">640155802f0430102cc628a62799b6d0</published_ref><question display_value="どのアイテムを予約しますか">09c45d442f0430102cc628a62799b613</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-06 05:42:17</sys_created_on><sys_id>91c45d442f0430102cc628a62799b621</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Laptop</sys_name><sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package><sys_policy/><sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope><sys_update_name>question_choice_91c45d442f0430102cc628a62799b621</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-06 05:42:17</sys_updated_on><text>Laptop</text><value>cmdb_ci_computer</value></question_choice><fx_price action="delete_multiple" query="id=91c45d442f0430102cc628a62799b621"/></record_update>]]></payload>
+        <payload_hash>-1692634834</payload_hash>
+        <record_name>Laptop</record_name>
+        <reverted_from/>
+        <source>aab22b552f7320102cc628a62799b66a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:42:17</sys_created_on>
+        <sys_id>95c45d442f0430102cc628a62799b623</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1794032bb750000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:42:17</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>1dc45d4426043010dec1d5deb6073a22</update_guid>
+        <update_guid_history>1dc45d4426043010dec1d5deb6073a22:-1692634834</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Laptop">800551842f0430102cc628a62799b6cf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:43:17</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>137d9c34ba614a1481a409041087a910</sys_id>
+        <sys_metadata>91c45d442f0430102cc628a62799b621</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptop</sys_name>
+        <sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope>
+        <sys_scope_delete display_value="">258c3f09563f4c5db8aae39692a5b0c9</sys_scope_delete>
+        <sys_update_name>question_choice_91c45d442f0430102cc628a62799b621</sys_update_name>
+        <sys_update_version display_value="question_choice_91c45d442f0430102cc628a62799b621">95c45d442f0430102cc628a62799b623</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:43:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

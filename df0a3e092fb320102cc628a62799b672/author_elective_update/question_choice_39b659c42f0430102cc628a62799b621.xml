@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>4</order>
+        <published_ref display_value="Singapore">340195802f0430102cc628a62799b619</published_ref>
+        <question display_value="どこでこのアイテムを受け取りますか">adb659c42f0430102cc628a62799b618</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:50:46</sys_created_on>
+        <sys_id>39b659c42f0430102cc628a62799b621</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Singapore</sys_name>
+        <sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope>
+        <sys_update_name>question_choice_39b659c42f0430102cc628a62799b621</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:50:46</sys_updated_on>
+        <text>Singapore</text>
+        <value>singapore</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=39b659c42f0430102cc628a62799b621"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</application>
+        <file_path/>
+        <instance_id>4d73bd63dbec77000b9d21c40596191a</instance_id>
+        <instance_name>dev79434</instance_name>
+        <name>question_choice_39b659c42f0430102cc628a62799b621</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>4</order><published_ref display_value="Singapore">340195802f0430102cc628a62799b619</published_ref><question display_value="どこでこのアイテムを受け取りますか">adb659c42f0430102cc628a62799b618</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-06 05:50:46</sys_created_on><sys_id>39b659c42f0430102cc628a62799b621</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Singapore</sys_name><sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package><sys_policy/><sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope><sys_update_name>question_choice_39b659c42f0430102cc628a62799b621</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-06 05:50:46</sys_updated_on><text>Singapore</text><value>singapore</value></question_choice><fx_price action="delete_multiple" query="id=39b659c42f0430102cc628a62799b621"/></record_update>]]></payload>
+        <payload_hash>-1272668308</payload_hash>
+        <record_name>Singapore</record_name>
+        <reverted_from/>
+        <source>aab22b552f7320102cc628a62799b66a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:50:47</sys_created_on>
+        <sys_id>b1b659c42f0430102cc628a62799b624</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179403a82d50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:50:47</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>39b659c427043010234d6758d0215123</update_guid>
+        <update_guid_history>39b659c427043010234d6758d0215123:-1272668308</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Singapore">129755082f0430102cc628a62799b664</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:54:39</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>1ab1fecace554bfc9c604ea399606510</sys_id>
+        <sys_metadata>39b659c42f0430102cc628a62799b621</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Singapore</sys_name>
+        <sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope>
+        <sys_scope_delete display_value="">258c3f09563f4c5db8aae39692a5b0c9</sys_scope_delete>
+        <sys_update_name>question_choice_39b659c42f0430102cc628a62799b621</sys_update_name>
+        <sys_update_version display_value="question_choice_39b659c42f0430102cc628a62799b621">b1b659c42f0430102cc628a62799b624</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:54:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

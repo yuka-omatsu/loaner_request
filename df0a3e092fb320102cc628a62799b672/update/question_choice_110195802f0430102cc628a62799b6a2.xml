@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>1</order>
+        <published_ref/>
+        <question display_value="item type">d90195802f0430102cc628a62799b699</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:25:54</sys_created_on>
+        <sys_id>110195802f0430102cc628a62799b6a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile Phone</sys_name>
+        <sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope>
+        <sys_update_name>question_choice_110195802f0430102cc628a62799b6a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:25:54</sys_updated_on>
+        <text>Mobile Phone</text>
+        <value>cmdb_ci_mobile_device</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=110195802f0430102cc628a62799b6a2"/>
+</record_update>

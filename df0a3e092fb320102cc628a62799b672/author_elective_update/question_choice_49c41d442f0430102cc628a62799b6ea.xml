@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>6</order>
+        <published_ref display_value="Other">b40195802f0430102cc628a62799b61d</published_ref>
+        <question display_value="どこでこのアイテムを受け取りますか">3cc41d442f0430102cc628a62799b6d5</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:42:16</sys_created_on>
+        <sys_id>49c41d442f0430102cc628a62799b6ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope>
+        <sys_update_name>question_choice_49c41d442f0430102cc628a62799b6ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:42:16</sys_updated_on>
+        <text>Other</text>
+        <value>other</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=49c41d442f0430102cc628a62799b6ea"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</application>
+        <file_path/>
+        <instance_id>4d73bd63dbec77000b9d21c40596191a</instance_id>
+        <instance_name>dev79434</instance_name>
+        <name>question_choice_49c41d442f0430102cc628a62799b6ea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>6</order><published_ref display_value="Other">b40195802f0430102cc628a62799b61d</published_ref><question display_value="どこでこのアイテムを受け取りますか">3cc41d442f0430102cc628a62799b6d5</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-06 05:42:16</sys_created_on><sys_id>49c41d442f0430102cc628a62799b6ea</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Other</sys_name><sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package><sys_policy/><sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope><sys_update_name>question_choice_49c41d442f0430102cc628a62799b6ea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-06 05:42:16</sys_updated_on><text>Other</text><value>other</value></question_choice><fx_price action="delete_multiple" query="id=49c41d442f0430102cc628a62799b6ea"/></record_update>]]></payload>
+        <payload_hash>-927123376</payload_hash>
+        <record_name>Other</record_name>
+        <reverted_from/>
+        <source>aab22b552f7320102cc628a62799b66a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:42:16</sys_created_on>
+        <sys_id>4dc41d442f0430102cc628a62799b6ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1794032b7f70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:42:16</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>c1c41d44c30430106c7da0c5c5f37eec</update_guid>
+        <update_guid_history>c1c41d44c30430106c7da0c5c5f37eec:-927123376</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Other">500551842f0430102cc628a62799b6fa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 05:43:18</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>2ca1805c2a0642809f79c9e67d3a9000</sys_id>
+        <sys_metadata>49c41d442f0430102cc628a62799b6ea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_577775_loaner_re">df0a3e092fb320102cc628a62799b672</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">df0a3e092fb320102cc628a62799b672</sys_scope>
+        <sys_scope_delete display_value="">258c3f09563f4c5db8aae39692a5b0c9</sys_scope_delete>
+        <sys_update_name>question_choice_49c41d442f0430102cc628a62799b6ea</sys_update_name>
+        <sys_update_version display_value="question_choice_49c41d442f0430102cc628a62799b6ea">4dc41d442f0430102cc628a62799b6ec</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 05:43:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
